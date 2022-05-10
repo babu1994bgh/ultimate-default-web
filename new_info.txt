@@ -7,3 +7,5 @@ commit #3 during squash activity
 commit #4 during squash activity
 
 commit #5 during rebase activity
+
+commit #6 during rebase activity
