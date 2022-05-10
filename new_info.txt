@@ -11,3 +11,5 @@ commit #5 during rebase activity
 commit #6 during rebase activity
 
 No more commit after this line.
+
+commit #8 cherry pick demo
