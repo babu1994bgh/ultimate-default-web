@@ -9,3 +9,5 @@ commit #4 during squash activity
 commit #5 during rebase activity
 
 commit #6 during rebase activity
+
+No more commit after this line.
